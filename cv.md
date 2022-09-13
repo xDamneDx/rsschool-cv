@@ -6,15 +6,15 @@
 
 ### Contact information:
 
-**E-mail:** xdamnedx@gmail.com
-**Telegram:** [@xDamneDx](https://t.me/xDamneDx)
-**Github:** [xDamneDx](https://github.com/xDamneDx)
+**E-mail:** xdamnedx@gmail.com<br>
+**Telegram:** [@xDamneDx](https://t.me/xDamneDx)<br>
+**Github:** [xDamneDx](https://github.com/xDamneDx)<br>
 
 ---
 
 ### Few Words About Myself:
 
-I can't stop learning because I believe that there are no limits. I want to become a great JS-developer and I don't see any obstacles.<br/>
+I can't stop learning because I believe that there are no limits. I want to become a great JS-developer and I don't see any obstacles.<br>
 Work Hard or Die Trying!
 
 ---
