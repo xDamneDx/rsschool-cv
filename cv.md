@@ -53,3 +53,12 @@ function getProductPrice(productName) {
 - React & JS courses from [Net Ninja](https://netninja.dev/).
 - JS & HTML/CSS courses from [HTML Academy](https://htmlacademy.ru/).
 - A lot of other courses from Udemy...
+
+---
+
+### Languages:
+
+- English \- C1 Advanced (EF SET \- 66/100)
+- Russian \- Native
+- Ukrainian \- Intermediate
+- Italian \- Poco
